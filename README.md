@@ -189,7 +189,7 @@ Using CloudFront in front of S3 provides several advantages:
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 Through this project, I gained practical experience with:
 
